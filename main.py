@@ -1,16 +1,18 @@
-# This is a sample Python script.
+from biblioteca import *
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+imprimirNome("Sol")
 
+# piramide(5)
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+# vogais("O rato roeu a roupa do rei de roma")
 
+#resposta = estoque("pão", 5, 2.50)
+#print(resposta)
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+#valor = argumento(-5)
+#print(valor)
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+#somaIlimitada(2,3,10,6)
+
+# doAvesso("sou sol")
+
